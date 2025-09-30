@@ -25,7 +25,7 @@ DEFAULT_PREDS_FILENAME = "preds.csv"
 # ----------------------------
 
 st.set_page_config(page_title="Demand Forecast Mock", layout="wide")
-st.title("Demand Forecast — Week 3 Mock UI")
+st.title("Dự đoán nhu cầu sản phẩm — Mock UI")
 
 st.markdown(
     f"""
